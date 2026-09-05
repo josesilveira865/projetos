@@ -45,8 +45,10 @@ Custo estimado (R$ 0,75/kWh): R$ 81,00/mês
 
 
 💡 Tecnologias
-•	🐍 Python 3.9+
-•	⚡ Cálculos de Eficiência Energética
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Energy](https://img.shields.io/badge/Energy-Eficiente-green?logo=power)
+
 
 📝 Licença
 Este projeto está sob a licença MIT.
