@@ -30,8 +30,8 @@ Consumo Mensal (kWh) = (Potência em W × Horas/Dia × 30 dias) ÷ 1000
 
 1. **Clone o repositório:**
 ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/josesilveira865/projetos.git
+   cd projetos
 ```
 
 2. **Execute o programa:**
