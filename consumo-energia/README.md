@@ -63,7 +63,10 @@ Consumo estimado: 146.88 kWh/mês
 Custo estimado: R$ 110.16
 
 
-![Execução do programa](https://github.com/user-attachments/assets/6f260dc3-e212-4991-aa6f-0d4875d5b3af)
+![Execução do programa]
+
+<img width="1801" height="262" alt="Captura de tela 2026-09-05 154752" src="https://github.com/user-attachments/assets/a7b7fc2b-3fb6-438d-aa08-b77b9bb656d1" />
+
 
 ## 💡 Tecnologias
 
