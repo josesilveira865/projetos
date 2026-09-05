@@ -44,7 +44,8 @@ Custo estimado (R$ 0,75/kWh): R$ 81,00/mês
 <img width="737" height="286" alt="image" src="https://github.com/user-attachments/assets/6f260dc3-e212-4991-aa6f-0d4875d5b3af" />
 
 
-💡 Tecnologias
+💡 Tecnologias:
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Energy](https://img.shields.io/badge/Energy-Eficiente-green?logo=power)
