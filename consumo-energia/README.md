@@ -41,6 +41,8 @@ Horas de uso por dia: 24
 Consumo estimado: 108.0 kWh/mês
 Custo estimado (R$ 0,75/kWh): R$ 81,00/mês
 
+<img width="737" height="286" alt="image" src="https://github.com/user-attachments/assets/6f260dc3-e212-4991-aa6f-0d4875d5b3af" />
+
 
 💡 Tecnologias
 •	🐍 Python 3.9+
