@@ -1,5 +1,4 @@
 🔌 Calculadora de Consumo de Energia - Geladeira
-Python 3.9+  |  Energy Eficiente  |  License MIT  |  Status Ativo
 
 📌 Sobre o Projeto
 Aplicação em Python que calcula o consumo mensal de energia elétrica e o custo estimado de eletrodomésticos, com foco inicial em geladeiras.
