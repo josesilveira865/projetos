@@ -1,20 +1,19 @@
 🔌 Calculadora de Consumo de Energia - Geladeira
 
-📌 Sobre o Projeto
+📌 Sobre o Projeto:
 Aplicação em Python que calcula o consumo mensal de energia elétrica e o custo estimado de eletrodomésticos, com foco inicial em geladeiras.
 Fluxo: Usuário informa potência e horas de uso → programa calcula consumo → exibe custo estimado.
 
-📐 Fórmula Utilizada
-
+📐 Fórmula Utilizada:
 Consumo Mensal (kWh) = (Potência em W × Horas/Dia × 30 dias) ÷ 1000
 
 
-🚀 Como Executar
+🚀 Como Executar:
 Pré-requisitos
 •	Python 3.9 ou superior
 •	Nenhuma dependência externa
 
-Passos
+Passos:
 1. Clone o repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
@@ -31,7 +30,7 @@ python main.py
 ◦	Consumo estimado em kWh/mês
 ◦	Custo estimado mensal
 
-📊 Exemplo de Uso
+📊 Exemplo de Uso:
 
 Nome do aparelho: Geladeira
 Potência (W): 150
